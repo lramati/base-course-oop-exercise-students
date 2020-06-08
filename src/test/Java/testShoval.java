@@ -1,5 +1,5 @@
-import AerialVehicles.UAVs.Haron.Eitan;
-import AerialVehicles.UAVs.Haron.Shoval;
+import AerialVehicles.Eitan;
+import AerialVehicles.Shoval;
 import Entities.Coordinates;
 import Missions.AttackMission;
 import Missions.BdaMission;

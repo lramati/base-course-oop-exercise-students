@@ -1,5 +1,5 @@
-import AerialVehicles.FighterJets.F15;
-import AerialVehicles.UAVs.Haron.Eitan;
+import AerialVehicles.F15;
+import AerialVehicles.Eitan;
 import Entities.Coordinates;
 import Missions.AttackMission;
 import Missions.BdaMission;

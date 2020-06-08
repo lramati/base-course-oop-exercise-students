@@ -1,9 +1,9 @@
-import AerialVehicles.FighterJets.F15;
-import AerialVehicles.FighterJets.F16;
-import AerialVehicles.UAVs.Haron.Eitan;
-import AerialVehicles.UAVs.Haron.Shoval;
-import AerialVehicles.UAVs.Hermes.Kochav;
-import AerialVehicles.UAVs.Hermes.Zik;
+import AerialVehicles.F15;
+import AerialVehicles.F16;
+import AerialVehicles.Eitan;
+import AerialVehicles.Shoval;
+import AerialVehicles.Kochav;
+import AerialVehicles.Zik;
 import Entities.Coordinates;
 import Missions.AttackMission;
 import Missions.BdaMission;
